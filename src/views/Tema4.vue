@@ -9,13 +9,13 @@
       h1 Matemáticas financieras
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/DCLBARuUI50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 A continuación, se describen algunos conceptos que facilitarán la implementación de matemáticas financieras en los presupuestos:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
       .row(titulo="Valor futuro").align-items-center.justify-content-center
         .col-lg-5.mb-4.mb-lg-0
           p.mb-4 El valor futuro de un valor presente es la cantidad de dinero de la cual se dispone al final del plazo de la operación financiera. El valor futuro es la suma del valor presente y los intereses devengados durante el tiempo en que se efectuó la inversión.
-          p.text-center.text-white.mb-5.img-style2  VF = VP * ( 1 + I )^ n
+          p.text-center.text-white.mb-5.img-style3  VF = VP * ( 1 + I )^ n
           p #[b Ejemplo]:
           p La empresa invierte en un fondo $10.000.000 durante 3 años, a una tasa del 10% anual.
           p ¿Cuál será el valor acumulado al final de la inversión? 
@@ -27,7 +27,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-5.mb-4.mb-lg-0
             p.mb-4 También llamado valor actual, es el valor actual de un flujo de fondos futuros, obtenidos mediante un descuento; es decir, la diferencia entre el costo de capital y el valor presente del flujo de efectivo futuro.
-            p.text-center.text-white.mb-5.img-style2  VP = VF * ( 1 + I )^ -n 
+            p.text-center.text-white.mb-5.img-style3  VP = VF * ( 1 + I )^ -n 
             p #[b Ejemplo]:
             p #[b Ejemplo valor actual o presente de un pasivo]
             p A la empresa DELTA S.A. le efectuaron un préstamo, por lo cual firmó 4 letras de cambio con vencimientos anuales, así:

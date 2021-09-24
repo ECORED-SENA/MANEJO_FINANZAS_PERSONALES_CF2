@@ -145,7 +145,7 @@ export default {
     {
       termino: 'Conjunto de estados financieros',
       significado:
-        'Según Varón (2013), los estados financieros que conforman el conjunto completo, de acuerdo con las NIIF, es decir, la totalidad de estados financieros que se deben elaborar y presentar bajo NIIF, se clasifican en:</br>● Estado de Situación Financiera al final del periodo.</br>● Estado de Resultado Integral del periodo.</br>●	Estado de Cambios en el Patrimonio del periodo.</br>● Estado de Flujo de Efectivo del periodo.</br>● Estado de Revelaciones del periodo.',
+        'Según Varón (2013), los estados financieros que conforman el conjunto completo, de acuerdo con las NIIF, es decir, la totalidad de estados financieros que se deben elaborar y presentar bajo NIIF, se clasifican en:</br><p style="margin-left: 20px">+ Estado de Situación Financiera al final del periodo.</p><p style="margin-left: 20px">+ Estado de Resultado Integral del periodo.<p style="margin-left: 20px">+ Estado de Cambios en el Patrimonio del periodo.<p style="margin-left: 20px">+ Estado de Flujo de Efectivo del periodo.<p style="margin-left: 20px">+ Estado de Revelaciones del periodo.',
     },
     {
       termino: 'Consumidor',
@@ -287,7 +287,55 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carmen Alicia Martínez Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Arnulfo Beltrán Mojica',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -304,7 +352,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Emilsen Alfonso Bautista',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

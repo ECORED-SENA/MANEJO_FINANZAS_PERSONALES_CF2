@@ -8,10 +8,10 @@
         span 5
       h1 Excel y otras herramientas para elaboración de presupuesto
     .row.align-items-center.mb-5
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-5.mb-4.mb-lg-0
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/img15.svg', style="width: 350px").m-auto
-      .col-lg-6
+          img(src='@/assets/curso/img15.svg', style="width: 450px").m-auto
+      .col-lg-7
         .cajon.color-primario.p-4
           p.mb-0 El presupuesto, al ser una herramienta de planeación, nos permite determinar un supuesto de cuánto se va a gastar o cuánto se va a recibir en un periodo determinado de cierta situación financiera. En este se destacan los diferentes tipos y la importancia que tiene en la ejecución de las finanzas personales. Gracias al análisis y a la comprensión del presupuesto, se pueden estabilizar los ingresos y los gastos que se reciben.
     p Para ello, se utilizará Microsoft Excel como herramienta básica, aplicación que realiza tareas de hoja de cálculo, con propiedades que facilitan el uso de fórmulas, funciones de matemáticas financieras, gráficos, entre otros. 
