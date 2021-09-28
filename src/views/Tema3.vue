@@ -13,7 +13,7 @@
         .row.justify-content-center.mb-5
           .col-lg-10
             .titulo-sexto.color-acento-contenido
-              h5 Ciclo contable
+              p Ciclo contable
             ImagenInfografica.color-secundario
               template(v-slot:imagen)
                 figure
@@ -31,7 +31,7 @@
         .row.justify-content-center.mb-5
           .col-lg-10
             .titulo-sexto.color-acento-contenido.mb-5
-              h5 Ciclo contable
+              p Ciclo contable
             figure
               img(src='@/assets/curso/img13.svg', style="width: 1200px").m-auto
               figcaption.mt-4 Nota. Tomada de Sánchez (2020)

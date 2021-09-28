@@ -21,19 +21,19 @@
           .col-lg-6.mb-4.mb-lg-0
             ul.lista-ul.mb-4.ms-4
               li
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p Fuentes del ingreso.
               li
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p Total de dinero que se tiene disponible.
               li
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p Lista de productos o servicios con sus precios o costos.
               li
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p Estados de cuenta y recibos de gastos fijos, como la luz, el arriendo, la papelería, entre otros.
               li
-                i.fas.fa-caret-square-right(style="color: #CA4F4E")
+                i.fas.fa-angle-right(style="color: #CA4F4E")
                 p Lista de los gastos y el monto calculado.
             .cajon.color-primario.p-4
               p.mb-0 Si el presupuesto es interno, es importante tener muy claro que se deben incluir las categorías de ingresos y gastos, ya que estas serán las columnas centrales. El formato variará de acuerdo con las necesidades de la organización y la meta específica. Ahora bien, teniendo en cuenta estos datos para la elaboración del formato de presupuesto, es posible empezar a diseñarlo.
@@ -41,7 +41,7 @@
             figure(data-aos="flip-left")
               img(src='@/assets/curso/img1.png', style="width: 550px").m-auto
     .titulo-sexto.color-acento-contenido
-      h5 Presupuesto simple
+      p Presupuesto simple
     .row.justify-content-center.mb-5
       .col-lg-4
         figure(data-aos="flip-left")

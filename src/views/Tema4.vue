@@ -22,7 +22,7 @@
           p Solución: $10.000.000 x (1.1)^3 = $13.310.000
         .col-lg-5
           figure
-            img(src='@/assets/curso/img2.png', style="width: 350px").m-auto
+            img(src='@/assets/curso/img2.png', style="width: 450px").m-auto
       div(titulo="Valor presente")
         .row.align-items-center.justify-content-center
           .col-lg-5.mb-4.mb-lg-0
@@ -39,7 +39,7 @@
             p $4.000.000 x ( 1.075 )^-1 = 3,720,930,33
           .col-lg-5
             figure
-              img(src='@/assets/curso/img3.png', style="width: 350px").m-auto
+              img(src='@/assets/curso/img3.png', style="width: 450px").m-auto
       div(titulo="Ejemplo valor actual o presente de un pasivo")
         .row.align-items-center.justify-content-center
           .col-lg-5.mb-4.mb-lg-0
@@ -51,7 +51,7 @@
             p.ms-4 TOTAL VALOR ACTUAL = 13.397.305,08
           .col-lg-5
             figure
-              img(src='@/assets/curso/img4.png', style="width: 350px").m-auto
+              img(src='@/assets/curso/img4.png', style="width: 450px").m-auto
       div(titulo="Plan de estudio bancario")
         .row.align-items-center.justify-content-center
           .col-10
@@ -149,7 +149,7 @@
             p.ms-5 > TMRR, se justifica el proyecto.
           .col-lg-5
             figure
-              img(src='@/assets/curso/img5.png', style="width: 350px").m-auto
+              img(src='@/assets/curso/img5.png', style="width: 450px").m-auto
 
 </template>
 
