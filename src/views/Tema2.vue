@@ -56,11 +56,14 @@
       .col-12.p-5
         br
         br
+        .titulo-sexto.color-acento-contenido
+          p Áreas de trabajo
         .row.justify-content-center.align-items-center(data-aos="fade-right")
+            
           .col-1.d-flex
             figure
               img(src='@/assets/curso/img10.svg',).img-style2.m-auto
-          .col-8.bg-color4
+          .col-9.bg-color4
             p.mb-0.text-white En las organizaciones, existen varios tipos de presupuesto y el objetivo son los planes financieros para un determinado tiempo. El presupuesto debe adaptarse a los departamentos (áreas de trabajo) donde se organizan los recursos financieros disponibles, cuando se trata de registrar información de forma ordenada y discriminada.
         br
         br
