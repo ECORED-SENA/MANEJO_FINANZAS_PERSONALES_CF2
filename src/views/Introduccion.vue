@@ -12,7 +12,7 @@
       .col-12
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/5YmogcaJt0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .row.align-items-center.mb-4
           .col-lg-6
             p Además, en este componente, se evidenciarán diferentes clases, modelos y ejemplos de cómo desarrollar un buen presupuesto, cómo ejecutarlo y cómo, a partir de ahí, poder emitir análisis básico financiero de lo ejecutado comparado con lo proyectado. Para ello, se utilizará matemática financiera, para que sea posible ver diferentes escenarios y analizar con prospectiva situaciones que generan los gastos, los ingresos y las variables de estos. 
