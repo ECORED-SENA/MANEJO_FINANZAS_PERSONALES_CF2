@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="498.147" viewBox="0 0 1328 498.147">
+  <defs>
+    <linearGradient id="linear-gradient" x1="20.676" y1="1.885" x2="22.624" y2="2.739" gradientUnits="objectBoundingBox">
+      <stop offset="0.101" stop-color="#fff"/>
+      <stop offset="1" stop-color="#231f20" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="7.248" y1="0.395" x2="8.165" y2="2.21" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="13.861" y1="0.247" x2="14.932" y2="-2.525" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#231f20" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_90409" data-name="Grupo 90409" transform="translate(-241.5 -1427.266)">
+    <rect id="Rectángulo_35115" data-name="Rectángulo 35115" width="1328" height="496" transform="translate(241.5 1427.844)" fill="#e8f6fa"/>
+    <g id="Grupo_90183" data-name="Grupo 90183" transform="translate(242.273 1427.268)" style="mix-blend-mode: overlay;isolation: isolate">
+      <path id="Trazado_101404" data-name="Trazado 101404" d="M-2212.052,187.515v1.766l111.9-111.9a28.979,28.979,0,0,0,0-40.939L-2136.588,0h-1.766l37.322,37.321a27.726,27.726,0,0,1,0,39.174Z" transform="translate(2212.052)" fill="#fff"/>
+    </g>
+    <path id="Trazado_112414" data-name="Trazado 112414" d="M-2206.478,163.426V529.06l164.37-164.371a26.1,26.1,0,0,0,0-36.893Z" transform="translate(2447.978 1385.479)" opacity="0.61" fill="url(#linear-gradient)"/>
+    <path id="Trazado_112415" data-name="Trazado 112415" d="M-1584.256,458.122h351.948L-1390.526,299.9a25.117,25.117,0,0,0-35.512,0Z" transform="translate(2664.676 1467.291)" opacity="0.61" fill="url(#linear-gradient-2)"/>
+    <path id="Trazado_112416" data-name="Trazado 112416" d="M-1590.727.979l70.218,70.218a39.549,39.549,0,0,0,55.937,0L-1394.354.979Z" transform="translate(2619.819 1426.287)" opacity="0.61" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
