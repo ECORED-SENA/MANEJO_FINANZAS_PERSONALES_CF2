@@ -96,7 +96,7 @@
               p Aquí encontramos las estimaciones de las compras de materia prima y de servicios para poner en proceso la producción. Debe estar siempre actualizado para garantizar el abastecimiento de los productos y así poder entregar a tiempo los pedidos.
           .row(numero="8" titulo="Presupuesto de marketing")
             .col-12
-              p Es importante para toda empresa tener su departamento de marketing, el cual es necesario para saber promocionar y conquistar nuevos clientes. Con este presupuesto, las organizaciones reservan una cantidad de dinero para crear nuevas estrategias de comunicación y exposición de la marca.
+              p Es importante para toda empresa tener su departamento de #[i marketing], el cual es necesario para saber promocionar y conquistar nuevos clientes. Con este presupuesto, las organizaciones reservan una cantidad de dinero para crear nuevas estrategias de comunicación y exposición de la marca.
       .col-lg-6
         figure(data-aos="flip-left")
           img(src='@/assets/curso/img11.svg', style="width: 550px").m-auto

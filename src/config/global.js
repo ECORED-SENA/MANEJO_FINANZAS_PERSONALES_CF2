@@ -106,8 +106,6 @@ export default {
     {
       referencia:
         'Díaz, M., Parra, R. y López, L. (2012). Presupuestos. Enfoque para la planeación financiera. Pearson. ',
-      link:
-        'https://drive.google.com/file/d/1c59mAyDStD5Nlx6aNpoSBCWmdWf1Ppc7/view?usp=sharing',
     },
     {
       referencia:
@@ -359,6 +357,16 @@ export default {
       },
     ],
     gestoresRepositorio: [
+      {
+        nombre: 'Álvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

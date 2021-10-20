@@ -29,7 +29,7 @@
             p.mb-4 También llamado valor actual, es el valor actual de un flujo de fondos futuros, obtenidos mediante un descuento; es decir, la diferencia entre el costo de capital y el valor presente del flujo de efectivo futuro.
             p.text-center.text-white.mb-5.img-style3  VP = VF * ( 1 + I )^ -n 
             p #[b Ejemplo]:
-            p #[b Ejemplo valor actual o presente de un pasivo]
+            p #[b Valor actual o presente de un pasivo]
             p A la empresa DELTA S.A. le efectuaron un préstamo, por lo cual firmó 4 letras de cambio con vencimientos anuales, así:
             p.ms-2 #[b a)] La primera por 4.000 um (unidades monetarias)
             p.ms-2 #[b b)] Las tres restantes por 5.000 um cada una
@@ -135,7 +135,7 @@
                   td(style="background-color: #F6F6F6; border-left: 1px solid gray") $70,010.12
                   td(style="background-color: #F6F6F6; border-left: 1px solid gray") $3,500,506.12
                   td(style="background-color: #F6F6F6; border-left: 1px solid gray") -
-      div(titulo="Valor presente año")
+      div(titulo="Valor presente neto")
         .row.align-items-center.justify-content-center
           .col-lg-5.mb-4.mb-lg-0
             p El valor presente neto VPN es el valor actual de los flujos de caja netos menos la inversión inicial.
